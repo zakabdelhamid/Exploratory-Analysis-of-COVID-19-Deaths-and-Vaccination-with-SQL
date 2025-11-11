@@ -76,7 +76,7 @@ Each file contains daily country-level data:
 **Languages & Tools**
 - SQL Server (joins, aggregations, grouping functions)
 - Excel (initial data preparation)
-- Optional: Power BI / Python (visualization)
+- Python (visualization)
 
 **Demonstrated Skills**
 - Handling real-world datasets
