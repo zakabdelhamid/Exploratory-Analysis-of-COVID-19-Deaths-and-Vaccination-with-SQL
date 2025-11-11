@@ -65,9 +65,10 @@ Each file contains daily country-level data:
      - **Lowest death rate**
 
 4. **Visualization**
-   - Exporting aggregated results to a Python notebook or Power BI:
+   - Exporting aggregated results to a Python notebook:
      - trend chart: deaths vs. vaccinations (worldwide)  
-     - top 10 vaccinated countries vs. their death rates  
+     - vaccination and death rate by continent  
+     - top 10 countries by vaccination or infection rate  
 
 ---
 
@@ -76,7 +77,7 @@ Each file contains daily country-level data:
 **Languages & Tools**
 - SQL Server (joins, aggregations, grouping functions)
 - Excel (initial data preparation)
-- Python (visualization)
+- Python (visualization with Matplotlib)
 
 **Demonstrated Skills**
 - Handling real-world datasets
@@ -88,25 +89,52 @@ Each file contains daily country-level data:
 
 ## 📈 5. Results & Key Insights
 
-- The evolution of **vaccination campaigns** is generally correlated with a **stabilization and decline in deaths** after 2021 in many regions.  
-- Countries with **high vaccination coverage** tend to show **lower death rates per capita** compared to those with slower rollouts.  
-- **Regional disparities** (e.g., Africa vs. Europe) highlight inequalities in vaccine access and healthcare infrastructure.  
-
-These findings show how a straightforward SQL-based approach can reveal **global insights from open data**.  
-
----
-
-## 🚀 6. Next Steps / Future Improvements
-
-- Add additional dimensions such as age groups, government policies, and GDP per capita.  
-- Extend the analysis using **Python (pandas, matplotlib)** for advanced temporal visualization.  
-- Build a **Power BI dashboard** to summarize results by continent and country.  
-- Automate data updates using the **Our World in Data API**.  
+- The datasets analyzed cover the period up to **mid-2021**, corresponding to the early stages of the global vaccination rollout.  
+- During this period, **cumulative deaths** continued to rise as vaccinations were just beginning, reflecting overlapping pandemic waves.  
+- **North and South America** recorded the highest death rates relative to their populations, followed by **Europe**, while **Asia**, **Africa**, and **Oceania** displayed lower rates.  
+- Vaccination coverage and mortality trends varied widely between regions, highlighting **inequalities in healthcare infrastructure and vaccine access**.
 
 ---
 
-## 🔁 7. Reproducibility & Transparency
+## 🧭 6. Key Takeaways
+
+- **Temporal limitation:** The available data stops at May 2021, before widespread vaccination coverage, preventing a full view of long-term vaccine effects.  
+- **Regional disparities:** Significant gaps exist between continents — higher vaccination and lower mortality in developed regions versus slower progress in others.  
+- **Timing effect:** The apparent increase in daily deaths “after vaccination” is explained by the fact that campaigns started during peak infection waves, not by vaccine inefficiency.  
+- **Data integrity:** Differences in reporting accuracy and frequency between countries affect the comparability of results.  
+
+---
+
+## 💼 7. Business Recommendations
+
+- **Enhance data governance:**  
+  Public health organizations should establish consistent, standardized, and timely COVID-19 reporting practices worldwide to ensure reliable analytics.
+
+- **Invest in monitoring systems:**  
+  Develop real-time dashboards integrating vaccination, infection, and mortality metrics to guide rapid decision-making.
+
+- **Promote equitable distribution:**  
+  Use data-driven insights to allocate vaccine resources to low-coverage regions, reducing global vulnerability and health inequality.
+
+- **Extend the analytical horizon:**  
+  Future analyses should include post-2021 data to measure the long-term correlation between vaccination coverage and reduced mortality.
+
+- **Integrate socioeconomic data:**  
+  Combining epidemiological data with demographic and economic indicators would help explain disparities and improve future health crisis management strategies.
+
+---
+
+## 🚀 8. Next Steps / Future Improvements
+
+- Include demographic and economic dimensions (age, GDP, healthcare capacity).  
+- Perform time-series forecasting using **Python (pandas, matplotlib, scikit-learn)**.  
+- Build an interactive **Power BI or Tableau dashboard**.  
+- Automate data collection and updates via the **Our World in Data API**.  
+
+---
+
+## 🔁 9. Reproducibility & Transparency
 
 - All datasets are public and freely available through **Our World in Data**.  
-- The provided SQL scripts allow for **full reproducibility** of the analysis using the `.xlsx` source files.  
-- The project demonstrates a **pragmatic and rigorous approach** to data exploration at an intermediate SQL level.  
+- The provided SQL scripts and Python notebooks ensure **full reproducibility**.  
+- The project demonstrates a **practical, analytical, and business-oriented approach** to public data exploration at an intermediate SQL level.
