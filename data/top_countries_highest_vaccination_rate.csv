@@ -1,0 +1,211 @@
+location;highest_vaccination_rate
+Gibraltar;111,2938173
+Falkland Islands;75,56703991
+Seychelles;68,82245272
+Isle of Man;66,85012701
+Israel;62,43973658
+Bhutan;62,26212138
+San Marino;59,72361365
+Saint Helena;58,68884862
+Maldives;54,85771688
+Cayman Islands;54,43396226
+Jersey;51,84866384
+Bermuda;51,59378864
+United Arab Emirates;51,38167314
+Malta;51,14157526
+Aruba;50,86450743
+United Kingdom;50,40226996
+Guernsey;49,16930144
+Curacao;44,02681292
+United States;43,77444933
+Chile;42,2345351
+Hungary;41,64587204
+Anguilla;40,76123184
+Bahrain;40,75164127
+Turks and Caicos Islands;38,84239888
+Qatar;34,34940612
+Uruguay;33,55672452
+Canada;32,66912911
+Monaco;32,50942819
+Iceland;32,06124542
+Antigua and Barbuda;30,3835471
+Finland;30,04617813
+Serbia;29,78238532
+Faeroe Islands;29,58763941
+Andorra;28,12787161
+Germany;26,72729602
+Belgium;25,94945337
+Montserrat;25,86517303
+Mongolia;25,79675636
+Barbados;25,76460394
+Austria;25,42384304
+Estonia;25,41478238
+Dominica;25,33233321
+Lithuania;25,16545806
+Spain;25,15969329
+Sweden;24,86438129
+Norway;24,78214402
+Portugal;23,56153805
+Singapore;23,31699184
+Italy;23,24142929
+Denmark;22,96506183
+Poland;22,71769159
+Netherlands;22,64628398
+Luxembourg;22,44415121
+France;22,38391158
+Saint Kitts and Nevis;22,27402617
+Ireland;21,61648638
+Liechtenstein;21,09237748
+Greece;20,66150273
+Slovenia;20,44573848
+Czechia;20,13697474
+Cyprus;20,10300274
+Slovakia;19,71595945
+Switzerland;19,68681922
+Kuwait;19,24804762
+Romania;16,92288083
+Croatia;16,63124064
+Turkey;16,25848434
+Guyana;15,76486951
+Greenland;15,61861481
+Argentina;15,32587879
+Brazil;13,71358348
+Morocco;13,69429853
+Latvia;13,56281035
+El Salvador;12,43855995
+Hong Kong;12,22173492
+Panama;11,17299934
+Saint Lucia;11,02603619
+Belize;10,58797196
+Costa Rica;10,57459649
+Dominican Republic;10,54276476
+Grenada;10,46845422
+Macao;10,33584767
+Mexico;9,582101299
+Azerbaijan;9,528704258
+Mauritius;9,225196125
+India;9,085257508
+Bulgaria;8,665377649
+Russia;8,428283491
+Cambodia;8,012251472
+Nepal;7,17824341
+Kazakhstan;6,888209951
+Jordan;6,854046891
+Suriname;6,537466291
+Bahamas;6,533281797
+South Korea;6,487333726
+Nauru;6,461140853
+Colombia;6,441786987
+Montenegro;6,393636297
+Fiji;6,246904436
+Tonga;5,077722168
+Oman;4,954351428
+Bolivia;4,690050886
+Equatorial Guinea;4,607747054
+Jamaica;4,574996091
+Indonesia;4,541564986
+Sao Tome and Principe;4,436920803
+Sri Lanka;4,334264999
+Lebanon;4,296571563
+Ecuador;3,590199206
+New Zealand;3,578508131
+Bangladesh;3,53371656
+Palestine;3,334544762
+Moldova;3,228041507
+Trinidad and Tobago;3,033602931
+Eswatini;3,007936809
+Peru;2,980036362
+North Macedonia;2,956877766
+Zimbabwe;2,790399226
+Ghana;2,724518065
+Malaysia;2,711629655
+Rwanda;2,701245787
+Belarus;2,582196118
+Senegal;2,456669372
+Brunei;2,449238028
+Tunisia;2,423185181
+Botswana;2,005421783
+Japan;1,971877644
+Togo;1,932661951
+Bosnia and Herzegovina;1,931715138
+Myanmar;1,837904404
+Uzbekistan;1,793795543
+Laos;1,732816021
+Ukraine;1,720165422
+Kenya;1,586498746
+Thailand;1,569097916
+Malawi;1,547975413
+Philippines;1,496431615
+Angola;1,388502644
+Paraguay;1,302847657
+Kosovo;1,143227299
+Georgia;1,136525723
+Djibouti;1,037042435
+Iran;1,02186668
+Pakistan;0,950689411
+Guatemala;0,93890972
+Nicaragua;0,930251304
+Venezuela;0,879169015
+Gambia;0,865738886
+Lesotho;0,746877585
+Iraq;0,741816092
+Namibia;0,741346821
+Somalia;0,739730573
+Uganda;0,72162174
+Guinea;0,718940801
+Solomon Islands;0,711916818
+Sierra Leone;0,678000523
+Egypt;0,644944399
+Australia;0,624685268
+Afghanistan;0,616517411
+Nigeria;0,578036959
+Cote d'Ivoire;0,564999038
+Honduras;0,55529709
+South Africa;0,535597734
+Vietnam;0,52028187
+Cape Verde;0,392814233
+Sudan;0,319793244
+Gabon;0,309786281
+Congo;0,259093179
+Mali;0,246424419
+Albania;0,211029258
+Timor;0,199402021
+Mozambique;0,183344113
+Mauritania;0,151365906
+Zambia;0,144582591
+Taiwan;0,135992384
+Papua New Guinea;0,032413002
+Kyrgyzstan;0,032187899
+Armenia;0,019067006
+Syria;0,014285178
+Libya;0,010914986
+South Sudan;0,008460094
+Niger;0,005643081
+Democratic Republic of Congo;0,001898139
+Cameroon;0,001506826
+Madagascar;NULL
+Marshall Islands;NULL
+Guinea-Bissau;NULL
+Liberia;NULL
+Comoros;NULL
+Samoa;NULL
+Algeria;NULL
+Cuba;NULL
+Burkina Faso;NULL
+Vatican;NULL
+Burundi;NULL
+Central African Republic;NULL
+China;NULL
+Chad;NULL
+Saudi Arabia;NULL
+Ethiopia;NULL
+Vanuatu;NULL
+Micronesia (country);NULL
+Eritrea;NULL
+Tanzania;NULL
+Saint Vincent and the Grenadines;NULL
+Haiti;NULL
+Yemen;NULL
+Tajikistan;NULL
+Benin;NULL
+Northern Cyprus;NULL
