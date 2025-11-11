@@ -1,5 +1,7 @@
 # 📊 Exploratory Data Analysis on COVID-19: Deaths and Vaccination with SQL
 
+An end-to-end data analysis project showcasing SQL and Python skills through the exploration of COVID-19 deaths and vaccination datasets from Our World in Data.
+
 **Keywords:** SQL, Data Analysis, Our World in Data, COVID-19, Vaccination, Mortality, Data Aggregation, Visualization
 
 ---
