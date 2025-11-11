@@ -138,3 +138,5 @@ Each file contains daily country-level data:
 - All datasets are public and freely available through **Our World in Data**.  
 - The provided SQL scripts and Python notebooks ensure **full reproducibility**.  
 - The project demonstrates a **practical, analytical, and business-oriented approach** to public data exploration at an intermediate SQL level.
+📘 **Interactive Notebook:**  
+You can view the full visualization notebook here → [Google Colab Link](https://colab.research.google.com/drive/1QalcIkn5MjXBgJEXshGy9tQ6s2GqWmn0?usp=sharing)
